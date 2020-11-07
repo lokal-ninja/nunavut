@@ -1,0 +1,15 @@
+baseURL = "https://ca.shoogle.net/nunavut"
+languageCode = "en-US"
+title = "Nunavut"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "nunavut"
