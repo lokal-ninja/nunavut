@@ -1,6 +1,6 @@
 ---
 title: Iqualuit
 url: /iqualuit/
-latitude: 
-longitude: 
+latitude: 63.744
+longitude: -68.489
 ---
