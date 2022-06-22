@@ -1,4 +1,4 @@
-baseURL = "https://ca.shoogle.net/nunavut"
+baseURL = "https://ca.shoogle.net/nunavut/"
 languageCode = "en-US"
 title = "Nunavut"
 theme = "ln-base"
