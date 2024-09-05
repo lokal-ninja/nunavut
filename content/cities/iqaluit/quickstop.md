@@ -1,5 +1,5 @@
 ---
 title: "Quickstop"
 url: /iqaluit/quickstop/
-shop: convenience
+shop: Lebensmittel
 ---
