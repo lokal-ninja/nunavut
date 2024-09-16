@@ -1,11 +1,11 @@
 id: 304804267
-type: way
+type: node
 latitude: 63.74497
 longitude: -68.50744
-postcode: "X0A 0H0"
+postcode: X0A 0H0
 city: Iqaluit
-street: "Kuugalaaq"
-housenumber: 343
+street: Kuugalaaq
+housenumber: "343"
 phone: ""
 opening_hours: ""
 website: ""

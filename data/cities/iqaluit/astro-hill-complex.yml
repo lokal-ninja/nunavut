@@ -1,11 +1,11 @@
 id: 298013944
-type: way
+type: node
 latitude: 63.74707
 longitude: -68.5104
-postcode: "X0A 0H0"
+postcode: X0A 0H0
 city: Iqaluit
-street: "Astro Hill"
-housenumber: 505
+street: Astro Hill
+housenumber: "505"
 phone: ""
 opening_hours: ""
 website: ""

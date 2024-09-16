@@ -1,11 +1,11 @@
 id: 303991671
-type: way
+type: node
 latitude: 63.74804
 longitude: -68.52915
-postcode: "X0A 0H0"
+postcode: X0A 0H0
 city: Iqaluit
-street: "Allanngua"
-housenumber: 1070
-phone: "+1-867-975-6869"
-opening_hours: "Tu-Sa 12:00-19:00"
+street: Allanngua
+housenumber: "1070"
+phone: +1-867-975-6869
+opening_hours: Tu-Sa 12:00-19:00
 website: ""
