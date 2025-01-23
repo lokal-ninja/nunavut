@@ -1,6 +1,6 @@
 ---
 title: Iqaluit
 url: /iqaluit/
-latitude: 63.745
-longitude: -68.545
+latitude: 63.75
+longitude: -68.53
 ---
